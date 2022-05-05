@@ -25,14 +25,18 @@ I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍�
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" />
+<img align="left" alt="scikit-learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikit-learn.svg" />
+<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/numpy.svg" />
+<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg" />
+<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="DJANGO" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg" />
 
 <br />
 
