@@ -50,7 +50,7 @@ I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍�
 <br />
 
 
-### GitHub Analytics 📊
+<!-- ### GitHub Analytics 📊
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
@@ -70,4 +70,4 @@ I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍�
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[xd]: https://www.adobe.com/products/xd.html -->
