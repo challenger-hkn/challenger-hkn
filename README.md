@@ -6,8 +6,8 @@ and I am a machine learning and AI researcher with a strong passion for educatio
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Data Scientist 👩‍💻
 - 🤔 I’m looking for help with Machine Learning
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to read, run and play chess.
+<!-- - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖 -->
+<!-- - ⚡ Fun fact: I love to read, run and play chess. -->
 <!-- ## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on many projects 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, -->
