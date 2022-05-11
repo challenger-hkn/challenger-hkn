@@ -2,7 +2,7 @@
 
 ## Hi there, I am Challenger-hkn 👋
 and I am a machine learning and AI researcher with a strong passion!
-- I’m currently working on ML, DL and NLP.
+- I’m working on ML, DL and NLP.
 - I'm currently learning as usual. 😂
 - I’m looking to collaborate with other Data Scientist.
 
