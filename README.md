@@ -72,7 +72,7 @@ and I am a machine learning and AI researcher with a strong passion!
 
 ### 💻 My Projects
 
-[<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4"/>](http://44.203.72.181:8501/)
+[<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=100&v=4"/>](http://44.203.72.181:8501/)
 
 ### 💻 Python Libraries
 
@@ -85,22 +85,21 @@ and I am a machine learning and AI researcher with a strong passion!
 
 ### 💻 Data Visualization
 
-<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a>
 
 ### 💻 Languages
 
-<a href="#" target="_blank"> <img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" alt="Python" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://juniortech.org/wp-content/uploads/2017/04/python-software-logo-300x158.jpg" alt="Python" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="40"/> </a>
   
 ### ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="40"/> </a>
 
