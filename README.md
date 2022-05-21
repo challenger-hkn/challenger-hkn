@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 ## Hi there, I am Challenger-hkn 👋
-and I am a machine learning and AI researcher with a strong passion!
+and I am a machine learning and deep learning researcher with a strong passion!
 - I’m working on ML, DL and NLP.
 - I'm currently learning as usual. 😂
 - I’m looking to collaborate with other Data Scientist.
