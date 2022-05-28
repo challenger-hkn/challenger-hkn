@@ -5,9 +5,6 @@ and I am a machine learning and deep learning researcher with a strong passion!
 - I’m working on ML, DL and NLP.
 - I'm currently learning as usual. 😂
 - I’m looking to collaborate with other Data Scientist.
-
-<br />
-<br />
 <br />
 
 #### 💻 My Projects
