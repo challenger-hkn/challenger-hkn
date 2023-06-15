@@ -22,7 +22,7 @@ and I am a machine learning and deep learning researcher with a strong passion!
 <img align="left" alt="tensorflow" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" /></a>
 <img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/flask.svg" />
 <img align="left" alt="Streamlit" width="50px" src="https://avatars.githubusercontent.com/u/45109972?s=80&v=4"/>
-<a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://blog.sqlauthority.com/wp-content/uploads/2012/08/sqlserver-500x308.png" alt="SQLserver" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="30"/> </a>
