@@ -7,11 +7,11 @@ and I am a machine learning and deep learning researcher with a strong passion!
 - I’m looking to collaborate with other Data Scientist.
 <br />
 
-#### 💻 My Projects:
+#### 💻 <ins>My Projects:<ins>
 
 [<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=80&v=4"/>](https://share.streamlit.io/challenger-hkn/mldeployments_streamlit/main/Employees_Churn_up_HR/app.py/) [<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=80&v=4"/>](http://44.203.72.181:8501/) [<img alt="Tableau" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" height="40"/>](https://public.tableau.com/app/profile/hakan3390/viz/Covid-19Analysis_son/Dashboard/)
 
-### 🔧 Languages, Libraries and Tools:
+### 🔧 <ins>Languages, Libraries and Tools:<ins>
 <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
