@@ -1,10 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 ## Hi there, I'm Hakan 👋
-and I am a machine learning and deep learning researcher with a strong passion!
-- I’m working on ML, DL and NLP.
+I'm a data scientist and I machine learning engineer with a strong passion and eagerness to learn!
+- I’m working on machine learning, DL and NLP.
 - I'm currently learning as usual. 😂
-- I’m looking to collaborate with other Data Scientist.
+- I’m looking to collaborate with other Data Scientists.
 <br />
 
 #### 💻 <ins>My Projects:<ins>
