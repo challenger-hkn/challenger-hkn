@@ -7,7 +7,7 @@ I'm a data scientist and I machine learning engineer with a strong passion and e
 - I’m looking to collaborate with other Data Scientists.
 <br />
 
-#### 💻 <ins>My Projects:<ins>
+### 💻 <ins>My Projects:<ins>
 
 [<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=80&v=4"/>](https://share.streamlit.io/challenger-hkn/mldeployments_streamlit/main/Employees_Churn_up_HR/app.py/) [<img alt="Streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=80&v=4"/>](http://44.203.72.181:8501/) [<img alt="Tableau" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" height="40"/>](https://public.tableau.com/app/profile/hakan3390/viz/Covid-19Analysis_son/Dashboard/)
 
