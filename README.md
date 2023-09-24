@@ -17,7 +17,7 @@ I'm a data scientist / machine learning engineer with a strong passion and eager
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" alt="tensorflow" height="50"/>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="40"/> 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="40", width="60px"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="Flask" height="50"/> </a>
